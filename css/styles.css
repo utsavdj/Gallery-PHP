@@ -1,0 +1,20 @@
+.home_page_photo{
+    height: 150px !important;
+}
+
+/*Home Page Pagination*/
+.pager .active a{
+    background-color: black;
+    color: white;
+    cursor: default;
+}
+
+.pager .active a:hover{
+    background-color: black;
+    color: white;
+    cursor: default;
+}
+
+.page-links{
+    text-align: center;
+}
